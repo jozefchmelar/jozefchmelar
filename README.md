@@ -23,23 +23,14 @@ skills:
   - name : RxJava
   - name : CI/CD
   
-interests:
+work:
   - name : Community manager & software engineer @ inxton
-    url : https://inxton.com
+    url : https://inxton.com    
+stuff:
   - name : Featured in C# Digest newsletter
     url : https://csharpdigest.net/digests/287
   - name : Featured in dotNET Weekly newsletter
     url : http://dnw-newsletter.azurewebsites.net/issues/2019/49/
-  - name : Startup weekend Zilina 2018 - 2nd place
-    url : https://www.linkedin.com/posts/jozef-chmel%C3%A1r-92204728_startupweekend-swza-activity-6462584494540095488-0DYl
-  - name : Accenture Panel story Award
-    url : https://www.linkedin.com/posts/jozef-chmel%C3%A1r-92204728_we-won-an-award-with-our-project-about-augmented-activity-6374187385042849792-QZtV
-  - name : Google Fundamentals of digital marketing
-    url : https://www.linkedin.com/posts/jozef-chmel%C3%A1r-92204728_fundamental-of-digital-marketing-activity-6528224904381370368-79Xf  
-  - name : Pluralsight C# Expert
-    url : https://www.linkedin.com/posts/jozef-chmel%C3%A1r-92204728_measure-your-skills-activity-6602219741249585152-SZr-  
-  - name : Erasmus - Jyväskylän ammattikorkeakoulu
-    url : https://www.jamk.fi/en/Home/ 
   - name : Read my articles
     url : https://medium.com/@Jozefchmelar
 ```
