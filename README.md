@@ -18,23 +18,21 @@ This what I do for a living right now
 That I'm proud of:
 
 ```yaml
-  - name : I once said "no" to my boss
-    source : just kidding.
-  - name : Featured in C# Digest newsletter
-    source : https://csharpdigest.net/digests/287
-  - name : Featured in dotNET Weekly newsletter
-    source : http://dnw-newsletter.azurewebsites.net/issues/2019/49/
-  - name : I won few competitions at young age and in college.
-    source : just believe me, or check my linkedin.    
+- I once said "no" to my boss
+just kidding.
+- Featured in C# Digest newsletter
+https://csharpdigest.net/digests/287
+- Featured in dotNET Weekly newsletter
+http://dnw-newsletter.azurewebsites.net/issues/2019/49/
+- I won few competitions at young age and in college.
+just believe me, or check my linkedin.    
 ```
 
 That I'm ashamed of:
 
 ```yaml
-  - name : I'm too scared to open an email
-  - name : I should be better at CSS
-  - name : I will listen to BS and agree to avoid a fight
-  - name : How little I charge.
-  ```
-
-
+- I'm too scared to open an email
+- I should be better at CSS
+- I will listen to BS and agree to avoid a fight
+- How little I charge.
+```
