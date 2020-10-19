@@ -34,5 +34,4 @@ That I'm ashamed of:
 - I'm too scared to open an email
 - I should be better at CSS
 - I will listen to BS and agree to avoid a fight
-- How little I charge.
 ```
