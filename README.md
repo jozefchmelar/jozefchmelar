@@ -1,6 +1,16 @@
 # `In the end, happiness is a side effect of living well.`
 [What Swimming Taught Me About Happiness](https://www.nytimes.com/2019/07/27/opinion/sunday/swimming-happiness.html) by Richard A. Friedman
 
+- I'm not a 10x developer.
+- I don't have 5 side projects.
+- I don't code at 3AM
+- No I won't use the latest JS framework
+- I don't have a PhD in  AI, ML, AR, VR, VHS, DVD
+- 💥
+- I can do anything, but can't do everything.
+- I'll do it and I'll let you know when it's done
+- **I'm an engineer you can trust.**
+
 ### I write 
   - about stuff that no cares about [@medium](https://medium.com/@Jozefchmelar)
   - code that even I don't understand [@github](https://github.com/jozefchmelar)
